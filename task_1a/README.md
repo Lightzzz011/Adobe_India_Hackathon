@@ -6,12 +6,10 @@ This repository contains the solution for **Task 1A** of the Adobe India Hackath
 
 ## 🐳 Build the Docker Image
 
-```bash
 docker build --platform linux/amd64 -t task_1a .
+
 ▶️ Run the Container
-bash
-Copy
-Edit
+
 docker run --rm ^
   -v "%cd%/app/input:/app/input:ro" ^
   -v "%cd%/app/output:/app/output" ^
@@ -21,9 +19,6 @@ docker run --rm ^
 📤 Output Format
 Each output is saved as a single JSON file named after the input PDF. The JSON structure includes:
 
-json
-Copy
-Edit
 {
   "metadata": {
     "input_documents": [...],
