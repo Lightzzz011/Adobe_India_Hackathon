@@ -7,19 +7,15 @@ def is_valid_heading(text):
     if not text or len(text.split()) < 2:
         return False
 
-    # ❌ Discard full sentences
     if text.endswith(".") or text.endswith("?"):
         return False
 
-    # ❌ Reject lines that start lowercase (e.g., 'description of', 'example:')
     if text[0].islower():
         return False
 
-    # ❌ Reject alphabetic or numeric bullet points like 'a. ...', '1.', 'i)'
     if re.match(r'^\(?[a-zA-Z0-9]{1,3}[\.\)]\s', text):
         return False
 
-    # ❌ Reject code blocks, JSON, URLs, special formatting
     invalid_patterns = [
         r'^\s*[-•]\s+',       # Bullet points
         r'^\{.*\}$',          # JSON-looking block
@@ -30,7 +26,6 @@ def is_valid_heading(text):
     if any(re.match(p, text) for p in invalid_patterns):
         return False
 
-    # ✅ Heuristic: Check capitalized word ratio
     words = text.split()
     capitalized = sum(1 for w in words if w[0].isupper())
     if capitalized / len(words) < 0.4:
