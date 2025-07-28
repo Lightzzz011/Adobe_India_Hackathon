@@ -1,0 +1,43 @@
+{
+    "challenge_info": {
+        "challenge_id": "round_1b_001",
+        "test_case_name": "menu_planning",
+        "description": "Dinner menu planning"
+    },
+    "documents": [
+        {
+            "filename": "Dinner Ideas - Mains_1.pdf",
+            "title": "Dinner Ideas - Mains_1"
+        },
+        {
+            "filename": "Dinner Ideas - Mains_2.pdf",
+            "title": "Dinner Ideas - Mains_2"
+        },
+        {
+            "filename": "Dinner Ideas - Mains_3.pdf",
+            "title": "Dinner Ideas - Mains_3"
+        },
+        {
+            "filename": "Dinner Ideas - Sides_1.pdf",
+            "title": "Dinner Ideas - Sides_1"
+        },
+        {
+            "filename": "Dinner Ideas - Sides_2.pdf",
+            "title": "Dinner Ideas - Sides_2"
+        },
+        {
+            "filename": "Dinner Ideas - Sides_3.pdf",
+            "title": "Dinner Ideas - Sides_3"
+        },
+        {
+            "filename": "Lunch Ideas.pdf",
+            "title": "Lunch Ideas"
+        }
+    ],
+    "persona": {
+        "role": "Food Contractor"
+    },
+    "job_to_be_done": {
+        "task": "Prepare a vegetarian buffet-style dinner menu for a corporate gathering, including gluten-free items."
+    }
+}

@@ -1,0 +1,85 @@
+{
+  "title": "Ml",
+  "outline": [
+    {
+      "level": "H1",
+      "text": "Basic Concepts in Machine Learning",
+      "page": 1
+    },
+    {
+      "level": "H2",
+      "text": "Task :",
+      "page": 2
+    },
+    {
+      "level": "H3",
+      "text": "Applications of Machine Learning",
+      "page": 3
+    },
+    {
+      "level": "H3",
+      "text": "Difference between machine learning and Artificial Intelligence:",
+      "page": 4
+    },
+    {
+      "level": "H3",
+      "text": "Applications of AI: Siri, customer support using catboats, Expert",
+      "page": 4
+    },
+    {
+      "level": "H3",
+      "text": "Applications of ML: Online recommender system, Google search",
+      "page": 4
+    },
+    {
+      "level": "H3",
+      "text": "Commonly used Machine Learning Algorithms",
+      "page": 7
+    },
+    {
+      "level": "H3",
+      "text": "Linear Regression",
+      "page": 8
+    },
+    {
+      "level": "H3",
+      "text": "Logistic Regression",
+      "page": 10
+    },
+    {
+      "level": "H3",
+      "text": "K Nearest Neighbor (KNN)",
+      "page": 11
+    },
+    {
+      "level": "H3",
+      "text": "K-Means Clustering:",
+      "page": 13
+    },
+    {
+      "level": "H3",
+      "text": "Decision Tree",
+      "page": 14
+    },
+    {
+      "level": "H3",
+      "text": "Random Forest",
+      "page": 16
+    },
+    {
+      "level": "H3",
+      "text": "Similar to KNN and Decision Tree, It also allows us to solve",
+      "page": 16
+    },
+    {
+      "level": "H3",
+      "text": "Support Vector Machines (SVM)",
+      "page": 18
+    },
+    {
+      "level": "H3",
+      "text": "Naïve Bayes",
+      "page": 20
+    }
+  ]
+}

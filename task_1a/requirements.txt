@@ -1,0 +1,3 @@
+# holy moly only one dude req
+
+PyMuPDF==1.23.21

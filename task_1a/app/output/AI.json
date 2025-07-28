@@ -1,0 +1,40 @@
+{
+  "title": "A Brief Introduction to Artificial Intelligence",
+  "outline": [
+    {
+      "level": "H1",
+      "text": "A Brief Introduction to Artificial Intelligence",
+      "page": 1
+    },
+    {
+      "level": "H3",
+      "text": "By Dibbyo Saha, Undergraduate Student, Computer Science, Ryerson University",
+      "page": 1
+    },
+    {
+      "level": "H2",
+      "text": "A Brief History of AI",
+      "page": 3
+    },
+    {
+      "level": "H2",
+      "text": "Artificial Intelligence vs Machine Learning vs Deep Learning",
+      "page": 3
+    },
+    {
+      "level": "H2",
+      "text": "AI at Work Today",
+      "page": 5
+    },
+    {
+      "level": "H2",
+      "text": "Concerns about AI",
+      "page": 6
+    },
+    {
+      "level": "H2",
+      "text": "Artificial Intelligence and The Future",
+      "page": 6
+    }
+  ]
+}

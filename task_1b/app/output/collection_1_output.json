@@ -1,0 +1,875 @@
+{
+  "metadata": {
+    "input_documents": [
+      "Dinner Ideas - Mains_1.pdf",
+      "Dinner Ideas - Mains_2.pdf",
+      "Dinner Ideas - Mains_3.pdf",
+      "Dinner Ideas - Sides_1.pdf",
+      "Dinner Ideas - Sides_2.pdf",
+      "Dinner Ideas - Sides_3.pdf",
+      "Lunch Ideas.pdf"
+    ],
+    "persona": "Food Contractor",
+    "job_to_be_done": "Prepare a vegetarian buffet-style dinner menu for a corporate gathering, including gluten-free items.",
+    "processing_timestamp": "2025-07-28T15:09:10.151418"
+  },
+  "extracted_sections": [
+    {
+      "document": "Dinner Ideas - Mains_1.pdf",
+      "section_title": "Chicken Tikka Masala",
+      "importance_rank": 1,
+      "page_number": 9
+    },
+    {
+      "document": "Dinner Ideas - Mains_1.pdf",
+      "section_title": "Lasagna",
+      "importance_rank": 2,
+      "page_number": 5
+    },
+    {
+      "document": "Dinner Ideas - Mains_1.pdf",
+      "section_title": "Spaghetti Bolognese",
+      "importance_rank": 3,
+      "page_number": 3
+    },
+    {
+      "document": "Dinner Ideas - Mains_1.pdf",
+      "section_title": "Chicken Marsala",
+      "importance_rank": 4,
+      "page_number": 8
+    },
+    {
+      "document": "Dinner Ideas - Mains_1.pdf",
+      "section_title": "Teriyaki Chicken",
+      "importance_rank": 5,
+      "page_number": 3
+    },
+    {
+      "document": "Dinner Ideas - Mains_2.pdf",
+      "section_title": "Fettuccine Alfredo",
+      "importance_rank": 1,
+      "page_number": 11
+    },
+    {
+      "document": "Dinner Ideas - Mains_2.pdf",
+      "section_title": "Yakitori",
+      "importance_rank": 2,
+      "page_number": 6
+    },
+    {
+      "document": "Dinner Ideas - Mains_2.pdf",
+      "section_title": "Crab Cakes",
+      "importance_rank": 3,
+      "page_number": 10
+    },
+    {
+      "document": "Dinner Ideas - Mains_2.pdf",
+      "section_title": "Thai Green Curry",
+      "importance_rank": 4,
+      "page_number": 4
+    },
+    {
+      "document": "Dinner Ideas - Mains_2.pdf",
+      "section_title": "Fish and Chips",
+      "importance_rank": 5,
+      "page_number": 12
+    },
+    {
+      "document": "Dinner Ideas - Mains_3.pdf",
+      "section_title": "Butter Chicken",
+      "importance_rank": 1,
+      "page_number": 4
+    },
+    {
+      "document": "Dinner Ideas - Mains_3.pdf",
+      "section_title": "Honey Garlic Pork Ribs",
+      "importance_rank": 2,
+      "page_number": 6
+    },
+    {
+      "document": "Dinner Ideas - Mains_3.pdf",
+      "section_title": "Peking Duck",
+      "importance_rank": 3,
+      "page_number": 1
+    },
+    {
+      "document": "Dinner Ideas - Mains_3.pdf",
+      "section_title": "Chili Con Carne",
+      "importance_rank": 4,
+      "page_number": 5
+    },
+    {
+      "document": "Dinner Ideas - Mains_3.pdf",
+      "section_title": "Ramen",
+      "importance_rank": 5,
+      "page_number": 2
+    },
+    {
+      "document": "Dinner Ideas - Sides_1.pdf",
+      "section_title": "Banchan",
+      "importance_rank": 1,
+      "page_number": 5
+    },
+    {
+      "document": "Dinner Ideas - Sides_1.pdf",
+      "section_title": "Baba Ganoush",
+      "importance_rank": 2,
+      "page_number": 4
+    },
+    {
+      "document": "Dinner Ideas - Sides_1.pdf",
+      "section_title": "Basturma",
+      "importance_rank": 3,
+      "page_number": 6
+    },
+    {
+      "document": "Dinner Ideas - Sides_1.pdf",
+      "section_title": "Chana Masala",
+      "importance_rank": 4,
+      "page_number": 14
+    },
+    {
+      "document": "Dinner Ideas - Sides_1.pdf",
+      "section_title": "Bulgur Pilaf",
+      "importance_rank": 5,
+      "page_number": 10
+    },
+    {
+      "document": "Dinner Ideas - Sides_2.pdf",
+      "section_title": "Freekeh Salad",
+      "importance_rank": 1,
+      "page_number": 10
+    },
+    {
+      "document": "Dinner Ideas - Sides_2.pdf",
+      "section_title": "Falafel",
+      "importance_rank": 2,
+      "page_number": 7
+    },
+    {
+      "document": "Dinner Ideas - Sides_2.pdf",
+      "section_title": "Gigantes Plaki",
+      "importance_rank": 3,
+      "page_number": 12
+    },
+    {
+      "document": "Dinner Ideas - Sides_2.pdf",
+      "section_title": "Egusi Soup",
+      "importance_rank": 4,
+      "page_number": 5
+    },
+    {
+      "document": "Dinner Ideas - Sides_2.pdf",
+      "section_title": "Green Bean Casserole",
+      "importance_rank": 5,
+      "page_number": 14
+    },
+    {
+      "document": "Dinner Ideas - Sides_3.pdf",
+      "section_title": "Hummus",
+      "importance_rank": 1,
+      "page_number": 2
+    },
+    {
+      "document": "Dinner Ideas - Sides_3.pdf",
+      "section_title": "Muhammara",
+      "importance_rank": 2,
+      "page_number": 12
+    },
+    {
+      "document": "Dinner Ideas - Sides_3.pdf",
+      "section_title": "Mandu",
+      "importance_rank": 3,
+      "page_number": 9
+    },
+    {
+      "document": "Dinner Ideas - Sides_3.pdf",
+      "section_title": "Moqueca de Banana",
+      "importance_rank": 4,
+      "page_number": 11
+    },
+    {
+      "document": "Dinner Ideas - Sides_3.pdf",
+      "section_title": "Jollof Rice",
+      "importance_rank": 5,
+      "page_number": 3
+    },
+    {
+      "document": "Lunch Ideas.pdf",
+      "section_title": "Tuna Salad",
+      "importance_rank": 1,
+      "page_number": 3
+    },
+    {
+      "document": "Lunch Ideas.pdf",
+      "section_title": "Chicken Salad Lettuce Wraps",
+      "importance_rank": 2,
+      "page_number": 4
+    },
+    {
+      "document": "Lunch Ideas.pdf",
+      "section_title": "Chicken Caesar Wrap",
+      "importance_rank": 3,
+      "page_number": 2
+    },
+    {
+      "document": "Lunch Ideas.pdf",
+      "section_title": "Veggie Sushi Rolls",
+      "importance_rank": 4,
+      "page_number": 11
+    },
+    {
+      "document": "Lunch Ideas.pdf",
+      "section_title": "Chicken and Veggie Stir-Fry",
+      "importance_rank": 5,
+      "page_number": 7
+    }
+  ],
+  "subsection_analysis": [
+    {
+      "document": "Dinner Ideas - Mains_1.pdf",
+      "refined_text": "\u2022 Marinate chicken cubes in the mixture for at least 1 hour",
+      "page_number": 9
+    },
+    {
+      "document": "Dinner Ideas - Mains_1.pdf",
+      "refined_text": "\u2022 In a large skillet, heat vegetable oil over medium heat",
+      "page_number": 9
+    },
+    {
+      "document": "Dinner Ideas - Mains_1.pdf",
+      "refined_text": "\u2022 Cook diced onion until translucent",
+      "page_number": 9
+    },
+    {
+      "document": "Dinner Ideas - Mains_1.pdf",
+      "refined_text": "\u2022 Add marinated chicken and cook until browned",
+      "page_number": 9
+    },
+    {
+      "document": "Dinner Ideas - Mains_1.pdf",
+      "refined_text": "\u2022 Stir in diced tomatoes and simmer for 20 minutes",
+      "page_number": 9
+    },
+    {
+      "document": "Dinner Ideas - Mains_1.pdf",
+      "refined_text": "\u2022 Add heavy cream and simmer for an additional 10 minutes",
+      "page_number": 9
+    },
+    {
+      "document": "Dinner Ideas - Mains_1.pdf",
+      "refined_text": "\u2022 Season with salt and pepper to taste",
+      "page_number": 9
+    },
+    {
+      "document": "Dinner Ideas - Mains_1.pdf",
+      "refined_text": "\u2022 Garnish with chopped cilantro and serve",
+      "page_number": 9
+    },
+    {
+      "document": "Dinner Ideas - Mains_1.pdf",
+      "refined_text": "\u2022 In a skillet, cook ground beef, diced onion, and minced garlic until browned",
+      "page_number": 5
+    },
+    {
+      "document": "Dinner Ideas - Mains_1.pdf",
+      "refined_text": "\u2022 Stir in marinara sauce and simmer for 10 minutes",
+      "page_number": 5
+    },
+    {
+      "document": "Dinner Ideas - Mains_1.pdf",
+      "refined_text": "\u2022 In a bowl, mix ricotta cheese, egg, grated Parmesan cheese, basil, and oregano",
+      "page_number": 5
+    },
+    {
+      "document": "Dinner Ideas - Mains_1.pdf",
+      "refined_text": "\u2022 Spread a thin layer of meat sauce in a baking dish",
+      "page_number": 5
+    },
+    {
+      "document": "Dinner Ideas - Mains_1.pdf",
+      "refined_text": "\u2022 Layer with 3 lasagna noodles, 1/3 of the ricotta mixture, 1/3 of the meat sauce, and 1/3 of the shredded mozzarella cheese",
+      "page_number": 5
+    },
+    {
+      "document": "Dinner Ideas - Mains_1.pdf",
+      "refined_text": "\u2022 Repeat layers twice more",
+      "page_number": 5
+    },
+    {
+      "document": "Dinner Ideas - Mains_1.pdf",
+      "refined_text": "\u2022 Cover with foil and bake for 25 minutes",
+      "page_number": 5
+    },
+    {
+      "document": "Dinner Ideas - Mains_1.pdf",
+      "refined_text": "\u2022 Remove foil and bake for an additional 25 minutes until cheese is melted and bubbly",
+      "page_number": 5
+    },
+    {
+      "document": "Dinner Ideas - Mains_1.pdf",
+      "refined_text": "\u2022 Let stand for 10 minutes before serving",
+      "page_number": 5
+    },
+    {
+      "document": "Dinner Ideas - Mains_1.pdf",
+      "refined_text": "\u2022 Add diced onion, minced garlic, grated carrot, and diced celery, saut\u00e9 until vegetables are tender",
+      "page_number": 3
+    },
+    {
+      "document": "Dinner Ideas - Mains_1.pdf",
+      "refined_text": "\u2022 Stir in crushed tomatoes, tomato paste, red wine (if using), oregano, basil, salt, and pepper",
+      "page_number": 3
+    },
+    {
+      "document": "Dinner Ideas - Mains_1.pdf",
+      "refined_text": "\u2022 Simmer for 30 minutes, stirring occasionally",
+      "page_number": 3
+    },
+    {
+      "document": "Dinner Ideas - Mains_1.pdf",
+      "refined_text": "\u2022 Cook spaghetti according to package instructions",
+      "page_number": 3
+    },
+    {
+      "document": "Dinner Ideas - Mains_1.pdf",
+      "refined_text": "\u2022 Serve Bolognese sauce over spaghetti, garnished with grated Parmesan cheese",
+      "page_number": 3
+    },
+    {
+      "document": "Dinner Ideas - Mains_2.pdf",
+      "refined_text": "Ingredients: \u2022 1 pound fettuccine \u2022 1 cup heavy cream \u2022 1/2 cup grated Parmesan cheese \u2022 1/4 cup butter \u2022 2 cloves garlic, minced \u2022 Salt and pepper to taste \u2022 Chopped parsley for garnish Instructions:",
+      "page_number": 11
+    },
+    {
+      "document": "Dinner Ideas - Mains_2.pdf",
+      "refined_text": "\u2022 Marinate chicken pieces in the mixture for at least 30 minutes",
+      "page_number": 6
+    },
+    {
+      "document": "Dinner Ideas - Mains_2.pdf",
+      "refined_text": "\u2022 Thread chicken onto bamboo skewers",
+      "page_number": 6
+    },
+    {
+      "document": "Dinner Ideas - Mains_2.pdf",
+      "refined_text": "\u2022 Preheat grill to medium-high heat",
+      "page_number": 6
+    },
+    {
+      "document": "Dinner Ideas - Mains_2.pdf",
+      "refined_text": "\u2022 Grill chicken, brushing with marinade, until cooked through",
+      "page_number": 6
+    },
+    {
+      "document": "Dinner Ideas - Mains_2.pdf",
+      "refined_text": "\u2022 Garnish with sliced green onions and serve",
+      "page_number": 6
+    },
+    {
+      "document": "Dinner Ideas - Mains_2.pdf",
+      "refined_text": "\u2022 Cook diced onion and minced garlic until softened",
+      "page_number": 4
+    },
+    {
+      "document": "Dinner Ideas - Mains_2.pdf",
+      "refined_text": "\u2022 Add cubed chicken and cook until browned",
+      "page_number": 4
+    },
+    {
+      "document": "Dinner Ideas - Mains_2.pdf",
+      "refined_text": "\u2022 Stir in green curry paste, coconut milk, chicken broth, fish sauce, and brown sugar",
+      "page_number": 4
+    },
+    {
+      "document": "Dinner Ideas - Mains_2.pdf",
+      "refined_text": "\u2022 Add sliced bell pepper and simmer for 15 minutes until chicken is cooked through",
+      "page_number": 4
+    },
+    {
+      "document": "Dinner Ideas - Mains_2.pdf",
+      "refined_text": "\u2022 Stir in fresh basil leaves",
+      "page_number": 4
+    },
+    {
+      "document": "Dinner Ideas - Mains_2.pdf",
+      "refined_text": "\u2022 Serve over cooked rice",
+      "page_number": 4
+    },
+    {
+      "document": "Dinner Ideas - Mains_2.pdf",
+      "refined_text": "\u2022 Gradually whisk in beer until smooth",
+      "page_number": 12
+    },
+    {
+      "document": "Dinner Ideas - Mains_2.pdf",
+      "refined_text": "\u2022 Heat vegetable oil in a deep fryer or large pot to 350\u00b0F (175\u00b0C)",
+      "page_number": 12
+    },
+    {
+      "document": "Dinner Ideas - Mains_2.pdf",
+      "refined_text": "\u2022 Dip fish fillets in the batter and fry until golden and crispy",
+      "page_number": 12
+    },
+    {
+      "document": "Dinner Ideas - Mains_2.pdf",
+      "refined_text": "\u2022 Drain on paper towels",
+      "page_number": 12
+    },
+    {
+      "document": "Dinner Ideas - Mains_2.pdf",
+      "refined_text": "\u2022 Fry potatoes until golden and crispy",
+      "page_number": 12
+    },
+    {
+      "document": "Dinner Ideas - Mains_2.pdf",
+      "refined_text": "\u2022 Serve fish and chips with lemon wedges",
+      "page_number": 12
+    },
+    {
+      "document": "Dinner Ideas - Mains_3.pdf",
+      "refined_text": "5 ounces) tomato puree \u2022 1/2 cup heavy cream \u2022 2 tablespoons butter \u2022 Salt and pepper to taste \u2022 Chopped cilantro for garnish \u2022 Cooked rice or naan for serving Instructions:",
+      "page_number": 4
+    },
+    {
+      "document": "Dinner Ideas - Mains_3.pdf",
+      "refined_text": "\u2022 Season ribs with salt, pepper, and paprika, then place in a baking dish",
+      "page_number": 6
+    },
+    {
+      "document": "Dinner Ideas - Mains_3.pdf",
+      "refined_text": "\u2022 In a bowl, mix honey, soy sauce, rice vinegar, garlic, and ginger",
+      "page_number": 6
+    },
+    {
+      "document": "Dinner Ideas - Mains_3.pdf",
+      "refined_text": "\u2022 Cover with foil and bake for 2",
+      "page_number": 6
+    },
+    {
+      "document": "Dinner Ideas - Mains_3.pdf",
+      "refined_text": "5 hours, basting occasionally with the sauce",
+      "page_number": 6
+    },
+    {
+      "document": "Dinner Ideas - Mains_3.pdf",
+      "refined_text": "\u2022 Remove foil, increase oven to 400\u00b0F (200\u00b0C), and bake for 15-20 minutes until caramelized",
+      "page_number": 6
+    },
+    {
+      "document": "Dinner Ideas - Mains_3.pdf",
+      "refined_text": "\u2022 Garnish with green onions and serve",
+      "page_number": 6
+    },
+    {
+      "document": "Dinner Ideas - Mains_3.pdf",
+      "refined_text": "\u2022 In a bowl, mix soy sauce, honey, hoisin sauce, rice vinegar, minced garlic, five-spice powder, and grated ginger",
+      "page_number": 1
+    },
+    {
+      "document": "Dinner Ideas - Mains_3.pdf",
+      "refined_text": "\u2022 Brush the mixture over the duck",
+      "page_number": 1
+    },
+    {
+      "document": "Dinner Ideas - Mains_3.pdf",
+      "refined_text": "\u2022 Place duck on a roasting rack and roast for 1 hour and 30 minutes until skin is crispy",
+      "page_number": 1
+    },
+    {
+      "document": "Dinner Ideas - Mains_3.pdf",
+      "refined_text": "\u2022 Let rest before carving",
+      "page_number": 1
+    },
+    {
+      "document": "Dinner Ideas - Mains_3.pdf",
+      "refined_text": "\u2022 Serve duck with sliced green onions and mandarin pancakes",
+      "page_number": 1
+    },
+    {
+      "document": "Dinner Ideas - Mains_3.pdf",
+      "refined_text": "Ingredients: \u2022 1 pound ground beef \u2022 1 small onion, diced \u2022 2 cloves garlic, minced \u2022 1 can (15 ounces) kidney beans, drained \u2022 1 can (14",
+      "page_number": 5
+    },
+    {
+      "document": "Dinner Ideas - Mains_3.pdf",
+      "refined_text": "\u2022 Stir in kidney beans, diced tomatoes, tomato paste, beef broth, chili powder, cumin, and paprika",
+      "page_number": 5
+    },
+    {
+      "document": "Dinner Ideas - Mains_3.pdf",
+      "refined_text": "\u2022 Bring to a boil, then reduce heat and simmer for 30 minutes, stirring occasionally",
+      "page_number": 5
+    },
+    {
+      "document": "Dinner Ideas - Mains_3.pdf",
+      "refined_text": "\u2022 Season with salt and pepper",
+      "page_number": 5
+    },
+    {
+      "document": "Dinner Ideas - Mains_3.pdf",
+      "refined_text": "\u2022 Serve hot, garnished with shredded cheese and sour cream",
+      "page_number": 5
+    },
+    {
+      "document": "Dinner Ideas - Mains_3.pdf",
+      "refined_text": "\u2022 Reduce heat and simmer for 20 minutes",
+      "page_number": 2
+    },
+    {
+      "document": "Dinner Ideas - Mains_3.pdf",
+      "refined_text": "\u2022 In a skillet, cook sliced pork belly until crispy",
+      "page_number": 2
+    },
+    {
+      "document": "Dinner Ideas - Mains_3.pdf",
+      "refined_text": "\u2022 Cook ramen noodles according to package instructions",
+      "page_number": 2
+    },
+    {
+      "document": "Dinner Ideas - Mains_3.pdf",
+      "refined_text": "\u2022 Divide noodles among bowls, top with broth, pork belly, soft-boiled eggs, sliced green onions, nori, and sesame seeds",
+      "page_number": 2
+    },
+    {
+      "document": "Dinner Ideas - Sides_1.pdf",
+      "refined_text": "\u2022 Ingredients: o Assorted small side dishes like pickled radish, spinach, bean sprouts, kimchi \u2022 Instructions: o Prepare each side dish separately",
+      "page_number": 5
+    },
+    {
+      "document": "Dinner Ideas - Sides_1.pdf",
+      "refined_text": "o Arrange on small plates",
+      "page_number": 5
+    },
+    {
+      "document": "Dinner Ideas - Sides_1.pdf",
+      "refined_text": "o Serve as accompaniments to the main meal",
+      "page_number": 5
+    },
+    {
+      "document": "Dinner Ideas - Sides_1.pdf",
+      "refined_text": "\u2022 Ingredients: o 2 eggplants o 1/4 cup tahini o 1/4 cup lemon juice o 2 cloves garlic o 1/4 cup olive oil o 1 teaspoon salt \u2022 Instructions: o Roast eggplants until soft, then peel and mash",
+      "page_number": 4
+    },
+    {
+      "document": "Dinner Ideas - Sides_1.pdf",
+      "refined_text": "o Blend mashed eggplant, tahini, lemon juice, minced garlic, and salt in a food processor",
+      "page_number": 4
+    },
+    {
+      "document": "Dinner Ideas - Sides_1.pdf",
+      "refined_text": "o Slowly add olive oil while blending until smooth",
+      "page_number": 4
+    },
+    {
+      "document": "Dinner Ideas - Sides_1.pdf",
+      "refined_text": "o Serve with a drizzle of olive oil",
+      "page_number": 4
+    },
+    {
+      "document": "Dinner Ideas - Sides_1.pdf",
+      "refined_text": "o Mix paprika, cumin, fenugreek, and garlic powder, then coat beef with the mixture",
+      "page_number": 6
+    },
+    {
+      "document": "Dinner Ideas - Sides_1.pdf",
+      "refined_text": "o Wrap in cheesecloth and hang in a cool, dry place for 1-2 weeks",
+      "page_number": 6
+    },
+    {
+      "document": "Dinner Ideas - Sides_1.pdf",
+      "refined_text": "o Slice thinly and serve",
+      "page_number": 6
+    },
+    {
+      "document": "Dinner Ideas - Sides_1.pdf",
+      "refined_text": "o Add cumin, coriander, garam masala, and turmeric, cook for 1 minute",
+      "page_number": 14
+    },
+    {
+      "document": "Dinner Ideas - Sides_1.pdf",
+      "refined_text": "o Add chickpeas and diced tomatoes, stir to combine",
+      "page_number": 14
+    },
+    {
+      "document": "Dinner Ideas - Sides_1.pdf",
+      "refined_text": "o Simmer for 15 minutes, stirring occasionally",
+      "page_number": 14
+    },
+    {
+      "document": "Dinner Ideas - Sides_1.pdf",
+      "refined_text": "o Add salt to taste and serve",
+      "page_number": 14
+    },
+    {
+      "document": "Dinner Ideas - Sides_1.pdf",
+      "refined_text": "o Add bulgur and cook for 2 minutes",
+      "page_number": 10
+    },
+    {
+      "document": "Dinner Ideas - Sides_2.pdf",
+      "refined_text": "o Saut\u00e9 diced onion in olive oil until softened",
+      "page_number": 10
+    },
+    {
+      "document": "Dinner Ideas - Sides_2.pdf",
+      "refined_text": "o Mix freekeh with saut\u00e9ed onion, chopped parsley, and mint",
+      "page_number": 10
+    },
+    {
+      "document": "Dinner Ideas - Sides_2.pdf",
+      "refined_text": "o Whisk lemon juice, olive oil, and salt, then pour over salad",
+      "page_number": 10
+    },
+    {
+      "document": "Dinner Ideas - Sides_2.pdf",
+      "refined_text": "o Toss well and serve",
+      "page_number": 10
+    },
+    {
+      "document": "Dinner Ideas - Sides_2.pdf",
+      "refined_text": "o Blend chickpeas, diced onion, minced garlic, chopped parsley, cumin, coriander, and salt in a food processor",
+      "page_number": 7
+    },
+    {
+      "document": "Dinner Ideas - Sides_2.pdf",
+      "refined_text": "o Add flour and mix until combined",
+      "page_number": 7
+    },
+    {
+      "document": "Dinner Ideas - Sides_2.pdf",
+      "refined_text": "o Form mixture into balls and fry in hot oil until golden",
+      "page_number": 7
+    },
+    {
+      "document": "Dinner Ideas - Sides_2.pdf",
+      "refined_text": "o Saut\u00e9 diced onion and minced garlic in olive oil until softened",
+      "page_number": 12
+    },
+    {
+      "document": "Dinner Ideas - Sides_2.pdf",
+      "refined_text": "o Add diced tomatoes, oregano, salt, and pepper, simmer for 10 minutes",
+      "page_number": 12
+    },
+    {
+      "document": "Dinner Ideas - Sides_2.pdf",
+      "refined_text": "o Mix beans with tomato sauce and transfer to a baking dish",
+      "page_number": 12
+    },
+    {
+      "document": "Dinner Ideas - Sides_2.pdf",
+      "refined_text": "o Bake at 375\u00b0F (190\u00b0C) for 30 minutes",
+      "page_number": 12
+    },
+    {
+      "document": "Dinner Ideas - Sides_2.pdf",
+      "refined_text": "o Add diced tomatoes, ground egusi seeds, and crayfish powder, cook for 5 minutes",
+      "page_number": 5
+    },
+    {
+      "document": "Dinner Ideas - Sides_2.pdf",
+      "refined_text": "o Add beef, fish, salt, pepper, and water, simmer until meat is tender",
+      "page_number": 5
+    },
+    {
+      "document": "Dinner Ideas - Sides_2.pdf",
+      "refined_text": "o Stir in chopped spinach and cook for 5 minutes",
+      "page_number": 5
+    },
+    {
+      "document": "Dinner Ideas - Sides_2.pdf",
+      "refined_text": "\u2022 Ingredients: o 4 cups green beans o 1 can cream of mushroom soup o 1/2 cup milk o 1 cup fried onions o 1 teaspoon salt o 1/2 teaspoon pepper \u2022 Instructions: o Preheat oven to 350\u00b0F (175\u00b0C)",
+      "page_number": 14
+    },
+    {
+      "document": "Dinner Ideas - Sides_2.pdf",
+      "refined_text": "o Cook green beans until tender",
+      "page_number": 14
+    },
+    {
+      "document": "Dinner Ideas - Sides_2.pdf",
+      "refined_text": "o Mix soup, milk, salt, and pepper in a baking dish",
+      "page_number": 14
+    },
+    {
+      "document": "Dinner Ideas - Sides_2.pdf",
+      "refined_text": "o Add green beans and half of the fried onions, stir to combine",
+      "page_number": 14
+    },
+    {
+      "document": "Dinner Ideas - Sides_2.pdf",
+      "refined_text": "o Bake for 25 minutes",
+      "page_number": 14
+    },
+    {
+      "document": "Dinner Ideas - Sides_2.pdf",
+      "refined_text": "o Top with remaining fried onions and bake for an additional 5 minutes",
+      "page_number": 14
+    },
+    {
+      "document": "Dinner Ideas - Sides_3.pdf",
+      "refined_text": "\u2022 Ingredients: o 1 can chickpeas o 1/4 cup tahini o 1/4 cup lemon juice o 2 cloves garlic o 1/4 cup olive oil o 1 teaspoon salt \u2022 Instructions: o Drain and rinse chickpeas",
+      "page_number": 2
+    },
+    {
+      "document": "Dinner Ideas - Sides_3.pdf",
+      "refined_text": "o Blend chickpeas, tahini, lemon juice, minced garlic, and salt in a food processor",
+      "page_number": 2
+    },
+    {
+      "document": "Dinner Ideas - Sides_3.pdf",
+      "refined_text": "o Slowly add olive oil while blending until smooth",
+      "page_number": 2
+    },
+    {
+      "document": "Dinner Ideas - Sides_3.pdf",
+      "refined_text": "o Serve with a drizzle of olive oil",
+      "page_number": 2
+    },
+    {
+      "document": "Dinner Ideas - Sides_3.pdf",
+      "refined_text": "o Blend peppers, walnuts, breadcrumbs, minced garlic, olive oil, pomegranate molasses, cumin, and salt in a food processor until smooth",
+      "page_number": 12
+    },
+    {
+      "document": "Dinner Ideas - Sides_3.pdf",
+      "refined_text": "o Serve with pita bread",
+      "page_number": 12
+    },
+    {
+      "document": "Dinner Ideas - Sides_3.pdf",
+      "refined_text": "o Fry in hot oil until golden, then steam for 5 minutes",
+      "page_number": 9
+    },
+    {
+      "document": "Dinner Ideas - Sides_3.pdf",
+      "refined_text": "o Serve with dipping sauce",
+      "page_number": 9
+    },
+    {
+      "document": "Dinner Ideas - Sides_3.pdf",
+      "refined_text": "Mango Sticky Rice \u2022 Ingredients: o 1 cup glutinous rice o 1 cup coconut milk o 1/4 cup sugar o 1/4 teaspoon salt o 2 mangoes \u2022 Instructions: o Rinse rice and soak in water for 1 hour",
+      "page_number": 9
+    },
+    {
+      "document": "Dinner Ideas - Sides_3.pdf",
+      "refined_text": "o Steam rice until tender",
+      "page_number": 9
+    },
+    {
+      "document": "Dinner Ideas - Sides_3.pdf",
+      "refined_text": "o Heat coconut milk with sugar and salt until dissolved",
+      "page_number": 9
+    },
+    {
+      "document": "Dinner Ideas - Sides_3.pdf",
+      "refined_text": "o Add diced tomatoes and cook for 5 minutes",
+      "page_number": 11
+    },
+    {
+      "document": "Dinner Ideas - Sides_3.pdf",
+      "refined_text": "o Stir in coconut milk, sliced bananas, salt, and pepper",
+      "page_number": 11
+    },
+    {
+      "document": "Dinner Ideas - Sides_3.pdf",
+      "refined_text": "o Simmer for 10 minutes",
+      "page_number": 11
+    },
+    {
+      "document": "Dinner Ideas - Sides_3.pdf",
+      "refined_text": "o Garnish with chopped cilantro and serve warm",
+      "page_number": 11
+    },
+    {
+      "document": "Dinner Ideas - Sides_3.pdf",
+      "refined_text": "o Add diced tomatoes, tomato paste, thyme, curry powder, salt, and pepper, cook for 5 minutes",
+      "page_number": 3
+    },
+    {
+      "document": "Dinner Ideas - Sides_3.pdf",
+      "refined_text": "o Stir in rice and cook for 2 minutes",
+      "page_number": 3
+    },
+    {
+      "document": "Dinner Ideas - Sides_3.pdf",
+      "refined_text": "o Add chicken broth and bring to a boil",
+      "page_number": 3
+    },
+    {
+      "document": "Dinner Ideas - Sides_3.pdf",
+      "refined_text": "o Reduce heat, cover, and simmer until rice is tender",
+      "page_number": 3
+    },
+    {
+      "document": "Lunch Ideas.pdf",
+      "refined_text": "\u2022 Season with salt and pepper",
+      "page_number": 3
+    },
+    {
+      "document": "Lunch Ideas.pdf",
+      "refined_text": "\u2022 Season with salt and pepper",
+      "page_number": 4
+    },
+    {
+      "document": "Lunch Ideas.pdf",
+      "refined_text": "\u2022 Serve in lettuce leaves",
+      "page_number": 4
+    },
+    {
+      "document": "Lunch Ideas.pdf",
+      "refined_text": "\u2022 Add the chicken, lettuce, and Parmesan cheese",
+      "page_number": 2
+    },
+    {
+      "document": "Lunch Ideas.pdf",
+      "refined_text": "\u2022 Roll up the tortilla tightly and slice in half",
+      "page_number": 2
+    },
+    {
+      "document": "Lunch Ideas.pdf",
+      "refined_text": "\u2022 Spread a thin layer of sushi rice over the nori, leaving a 1-inch border at the top",
+      "page_number": 11
+    },
+    {
+      "document": "Lunch Ideas.pdf",
+      "refined_text": "\u2022 Arrange the cucumber, avocado, and carrot in a line along the bottom edge of the rice",
+      "page_number": 11
+    },
+    {
+      "document": "Lunch Ideas.pdf",
+      "refined_text": "\u2022 Roll the nori tightly using the bamboo mat",
+      "page_number": 11
+    },
+    {
+      "document": "Lunch Ideas.pdf",
+      "refined_text": "\u2022 Slice into bite-sized pieces and serve with soy sauce",
+      "page_number": 11
+    },
+    {
+      "document": "Lunch Ideas.pdf",
+      "refined_text": "\u2022 Add bell pepper, broccoli, and snap peas, and stir-fry until tender",
+      "page_number": 7
+    },
+    {
+      "document": "Lunch Ideas.pdf",
+      "refined_text": "\u2022 Add the cooked chicken and soy sauce, and stir to combine",
+      "page_number": 7
+    },
+    {
+      "document": "Lunch Ideas.pdf",
+      "refined_text": "\u2022 Drizzle with sesame oil and serve over rice",
+      "page_number": 7
+    },
+    {
+      "document": "Lunch Ideas.pdf",
+      "refined_text": "\u2022 Drizzle with olive oil and lemon juice",
+      "page_number": 7
+    },
+    {
+      "document": "Lunch Ideas.pdf",
+      "refined_text": "\u2022 Season with salt and pepper, then toss to combine",
+      "page_number": 7
+    }
+  ]
+}

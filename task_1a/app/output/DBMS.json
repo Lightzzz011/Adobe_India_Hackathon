@@ -1,0 +1,70 @@
+{
+  "title": "DBMS",
+  "outline": [
+    {
+      "level": "H2",
+      "text": "UNIT- 1",
+      "page": 1
+    },
+    {
+      "level": "H2",
+      "text": "Introduction to DBMS",
+      "page": 1
+    },
+    {
+      "level": "H3",
+      "text": "1.2 Database System Architecture:",
+      "page": 1
+    },
+    {
+      "level": "H3",
+      "text": "1.4 Data Models in DBMS",
+      "page": 4
+    },
+    {
+      "level": "H3",
+      "text": "1.5 Entity Relation Model",
+      "page": 9
+    },
+    {
+      "level": "H3",
+      "text": "Types of Attributes",
+      "page": 9
+    },
+    {
+      "level": "H3",
+      "text": "1.6.1 Features of EER Model",
+      "page": 13
+    },
+    {
+      "level": "H3",
+      "text": "1.7 Converting ER Diagram to Tables:",
+      "page": 16
+    },
+    {
+      "level": "H3",
+      "text": "Roll_no First-name Last-Name Sex",
+      "page": 16
+    },
+    {
+      "level": "H3",
+      "text": "Roll_no city",
+      "page": 16
+    },
+    {
+      "level": "H3",
+      "text": "Roll_no Mobile-no",
+      "page": 16
+    },
+    {
+      "level": "H3",
+      "text": "1.8 Database Users & architecture of DBA",
+      "page": 19
+    },
+    {
+      "level": "H3",
+      "text": "1.9 Legacy System:",
+      "page": 21
+    }
+  ]
+}

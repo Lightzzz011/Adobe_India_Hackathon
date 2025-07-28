@@ -1,0 +1,165 @@
+{
+  "title": "adobe_india_hackathon",
+  "outline": [
+    {
+      "level": "H1",
+      "text": "Welcome to the “Connecting the Dots” Challenge",
+      "page": 2
+    },
+    {
+      "level": "H2",
+      "text": "Rethink Reading. Rediscover Knowledge",
+      "page": 2
+    },
+    {
+      "level": "H2",
+      "text": "The Journey Ahead",
+      "page": 2
+    },
+    {
+      "level": "H2",
+      "text": "Why This Matters",
+      "page": 2
+    },
+    {
+      "level": "H1",
+      "text": "Round 1A: Understand Your Document",
+      "page": 3
+    },
+    {
+      "level": "H2",
+      "text": "Challenge Theme: Connecting the Dots Through Docs",
+      "page": 3
+    },
+    {
+      "level": "H2",
+      "text": "Your Mission",
+      "page": 3
+    },
+    {
+      "level": "H2",
+      "text": "Why This Matters",
+      "page": 3
+    },
+    {
+      "level": "H2",
+      "text": "What You Need to Build",
+      "page": 3
+    },
+    {
+      "level": "H2",
+      "text": "You Will Be Provided",
+      "page": 3
+    },
+    {
+      "level": "H2",
+      "text": "Docker Requirements",
+      "page": 4
+    },
+    {
+      "level": "H2",
+      "text": "Expected Execution",
+      "page": 4
+    },
+    {
+      "level": "H2",
+      "text": "Constraint Requirement",
+      "page": 4
+    },
+    {
+      "level": "H2",
+      "text": "Execution time",
+      "page": 4
+    },
+    {
+      "level": "H2",
+      "text": "Scoring Criteria",
+      "page": 5
+    },
+    {
+      "level": "H2",
+      "text": "Performance (Time & Size Compliance) 10",
+      "page": 5
+    },
+    {
+      "level": "H2",
+      "text": "Total 45",
+      "page": 5
+    },
+    {
+      "level": "H2",
+      "text": "Submission Checklist",
+      "page": 5
+    },
+    {
+      "level": "H2",
+      "text": "Pro Tips",
+      "page": 5
+    },
+    {
+      "level": "H2",
+      "text": "What Not to Do",
+      "page": 6
+    },
+    {
+      "level": "H2",
+      "text": "[[Public Dataset Folder]]",
+      "page": 6
+    },
+    {
+      "level": "H1",
+      "text": "Round 1B: Persona-Driven Document Intelligence",
+      "page": 7
+    },
+    {
+      "level": "H2",
+      "text": "Theme: “Connect What Matters — For the User Who Matters”",
+      "page": 7
+    },
+    {
+      "level": "H2",
+      "text": "Challenge Brief (For Participants)",
+      "page": 7
+    },
+    {
+      "level": "H2",
+      "text": "Input Specification",
+      "page": 7
+    },
+    {
+      "level": "H2",
+      "text": "Sample Test Cases",
+      "page": 7
+    },
+    {
+      "level": "H2",
+      "text": "Test Case 1: Academic Research",
+      "page": 7
+    },
+    {
+      "level": "H2",
+      "text": "Test Case 2: Business Analysis",
+      "page": 8
+    },
+    {
+      "level": "H2",
+      "text": "Test Case 3: Educational Content",
+      "page": 8
+    },
+    {
+      "level": "H2",
+      "text": "Required Output",
+      "page": 8
+    },
+    {
+      "level": "H2",
+      "text": "Scoring Criteria",
+      "page": 9
+    },
+    {
+      "level": "H2",
+      "text": "Section Relevance 60",
+      "page": 9
+    }
+  ]
+}
