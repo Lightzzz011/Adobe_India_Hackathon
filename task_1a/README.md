@@ -49,6 +49,8 @@ Edit
     // ...
   ]
 }
+
+
 ⚙️ Implementation Guidelines
 📈 Performance Considerations
 Memory Management: Efficient handling of large PDFs
@@ -59,12 +61,14 @@ Resource Usage: Must stay under 16GB RAM
 
 CPU Utilization: Efficient use of up to 8 CPU cores
 
+
 🧪 Testing Strategy
 Simple PDFs: Test with basic layouts
 
 Complex PDFs: Handle multi-column, images, tables
 
 Large PDFs: Test with ~50-page files to ensure performance
+
 
 ✅ Validation Checklist
  All PDFs in /app/input/ are processed automatically
